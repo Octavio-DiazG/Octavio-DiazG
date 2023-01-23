@@ -1,6 +1,6 @@
 # Octavio-DiazG
 ## **About me:**
-* I’m looking froward for a specialization in Data Sience with Machine Learning and Deep Learning. </br>
+* I’m looking forward for a specialization in Data Sience with Machine Learning and Deep Learning. </br>
 * I’m presently working with C++ and Dart programming. </br>
 * I’m currently learning programming with C++ and Python. </br>
 * I’m willing to work on any startup or a well-seated company! </br>
